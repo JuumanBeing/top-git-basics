@@ -1,2 +1,3 @@
-# top-git-basics
-Git Basics from The Odin Project
+The Odin Project: Git Basics
+========================================
+Basic Git exercises and workflow from The Odin Project Foundations course.
